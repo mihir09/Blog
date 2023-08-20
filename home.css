@@ -1,0 +1,15 @@
+@media (max-width: 576px) {
+    .flex-md-row {
+        flex-direction: column;
+    }
+
+    .side-by-side {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .blog-list {
+        border: 1px solid black;
+        flex: 50%;
+    }
+}
