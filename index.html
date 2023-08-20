@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link href="index.css" rel="stylesheet">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="index.css">
 </head>
 
 <body>
@@ -20,60 +19,15 @@
             <button type="button" id="signupShowButton" class="btn btn-primary">Signup</button>
             <button type="button" id="loginShowButton" class="btn btn-primary">Login</button>
         </div>
-        <div class="content mx-auto col-lg-6">
+        <div class="content mx-auto col-lg-6 p-3 m-3">
         </div>
-
     </div>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <script>
-        signupContent = `
-            <div class="signup">
-                <h3>Signup to view the content</h3>
-                <form action="home.html">
-        
-                    <div class="form-group">
-                        <label for="username">Username</label>
-                        <input type="text" class="form-control" id="username" placeholder="Username"/>
-                    </div>
-        
-                    <div class="form-group">
-                        <label for="password">Password</label>
-                        <input type="password" class="form-control" id="password" placeholder="Password"/>
-                    </div>
-                    
-                    <button type="submit" class="btn btn-primary">Signup</button>
-                </form>
-            </div>`;
-        loginContent = `
-            <div class="login">
-                <h3>Login to view the content</h3>
-                <form action="home.html">
-
-                    <div class="form-group">
-                        <label for="username">Username</label>
-                        <input type="text" class="form-control" id="username" placeholder="Username"/>
-                    </div>
-
-                    <div class="form-group">
-                        <label for="password">Password</label>
-                        <input type="password" class="form-control" id="password" placeholder="Password"/>
-                    </div>
-
-                    <button type="submit" class="btn btn-primary">Login</button>
-                </form>
-            </div>`;
-        $(document).ready(function(){
-            $("#signupShowButton").click(function(){
-                $(".content").html(signupContent);
-            });
-        
-            $("#loginShowButton").click(function(){
-                $(".content").html(loginContent);
-            });
-        })
-    </script>
+    <script src="index.js"></script>
 </body>
 
 </html>

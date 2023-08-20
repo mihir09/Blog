@@ -11,3 +11,7 @@
 .content{
     padding: 1.1rem;
 }
+
+[id$="-error"] {
+    color: red
+}
