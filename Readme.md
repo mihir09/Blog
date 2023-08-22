@@ -71,43 +71,50 @@ Created a dynamic and user-friendly blog website by incorporating responsive des
 
 ## Screenshots
 
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot0.png" alt="Login/Signup Page" width="500" height="400">
-<figcaption>Login/Signup Page</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot1.png" alt="Form Validation" width="500" height="400">
-<figcaption>Form Validation</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot2.png" alt="Form Validation" width="500" height="400">
-<figcaption>Form Validation</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot3.png" alt="Home Page" width="500" height="400">
-<figcaption>Home Page</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot4.png" alt="Home Page break point 768px" width="500" height="400">
-<figcaption>Home Page break point 768px</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot5.png" alt="Home Page break point 768px" width="500" height="400">
-<figcaption>Home Page break point 768px</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot6.png" alt="Home Page break point 576px" width="500" height="400">
-<figcaption>Home Page break point 576px</figcaption>
-</figure>
-<br>
-<figure style="text-align:center">
-<img src="Screenshots/Screenshot7.png" alt="Home Page break point 576px" width="500" height="400">
-<figcaption>Home Page break point 576px</figcaption>
-</figure>
-<br>
+<p align="center">
+  <img src="Screenshots/Screenshot0.png" alt="Login/Signup Page" width="500" height="400">
+  <br>
+  <em>Login/Signup Page</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot1.png" alt="Form Validation" width="500" height="400">
+  <br>
+  <em>Form Validation</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot2.png" alt="Form Validation" width="500" height="400">
+  <br>
+  <em>Form Validation</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot3.png" alt="Home Page" width="500" height="400">
+  <br>
+  <em>Home Page</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot4.png" alt="Home Page break point 768px" width="500" height="400">
+  <br>
+  <em>Home Page break point 768px</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot5.png" alt="Home Page break point 768px" width="500" height="400">
+  <br>
+  <em>Home Page break point 768px</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot6.png" alt="Home Page break point 576px" width="500" height="400">
+  <br>
+  <em>Home Page break point 576px</em>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot7.png" alt="Home Page break point 576px" width="500" height="400">
+  <br>
+  <em>Home Page break point 576px</em>
+</p>
